@@ -9,4 +9,5 @@
 
 ***
 
-![Картинка](img/12.jpg)
+<img src="img/12.jpg" width="400">
+
