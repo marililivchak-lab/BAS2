@@ -6,3 +6,9 @@
 Блок кода
 ```
 ![Картинка](img/owl.jpg)
+
+Item   | Value  | Quantity 
+
+:-------- |:-----:| --------:  
+Computer  | 1600  | 3  
+Phone     | 12    | 2
